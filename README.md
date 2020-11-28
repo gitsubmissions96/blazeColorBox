@@ -11,4 +11,6 @@ In every loop an object - {r,g,b} is pushed into an colors array which stores al
 
 The rendering code is also simple. It renders 256X128 colors on the screen.
 
+The code for all of this has been added in the ColorViewer.js file in the components folder.
+
 I must say this was a fun project. I did not expect to see the patterns that were generated and was pleasantly surprised. Thank you for the opportunity.
